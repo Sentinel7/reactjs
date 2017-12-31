@@ -2,7 +2,7 @@
 
 This is one of my ReactJS repositories. React is a Javascript library that Facebook created to help build custom HTML elements. It is a powerful tool for front-end development, and is rapidly becoming the most widely used library to date, which is why I chose to learn about it. Their website: https://reactjs.org/
 
-## Instructions:
+## Details:
 * React code (JSX) is found in 'app' folders
 * Pure JS has been translated and put in the 'build' folders
 * You need to have Node.js installed to have access to the NPM
